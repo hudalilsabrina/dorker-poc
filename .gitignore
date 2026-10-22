@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Output hasil discovery (berisi data run lokal)
+out/
+
+# Arsip versi lama / eksperimen
+*.bak
+*.orig
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
